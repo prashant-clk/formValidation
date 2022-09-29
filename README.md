@@ -1,2 +1,2 @@
 # form validaton 
-# This repo will explain working of custom form validations.
+# This repo will explain the working of custom form validations.
